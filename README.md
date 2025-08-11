@@ -26,3 +26,21 @@ This repository contains a portfolio of dashboards created using Power BI. I cre
 * Drill-through functionality
 
 [Data Jobs Dashboard v1 Full Details](/Data_Jobs_v1/README.md)
+
+## Data Jobs Dashboard (v2.0) - In-Depth Analysis of Skills in 2024 Data Job Postings
+
+![Data Jobs Dashboard v2.0](/images/Project2_Page1.PNG)
+
+**Power BI Features/Skills Used in the Dashboard**
+
+* Dashboard layout/design features (background shapes, formatting, etc.)
+* Power Query (ETL)
+* Table relationships (data models)
+* Explicit measures and calculations using DAX
+* Core visualizations:
+    * KPI cards
+    * Charts: Bar, Line, Scatter
+* Slicers and Filters
+* Buttons
+
+[Data Jobs Dashboard v2.0 Full Details](/Data_Jobs_v2/README.md)

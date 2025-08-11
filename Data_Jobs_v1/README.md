@@ -17,6 +17,6 @@ This dashboard was created to provide in-depth insights into data job postings. 
 
 ## Preview of Data Jobs Dashboard and Drill Through
 
-![Data Jobs Dashboard](images/Project1_Page1.PNG)
+![Data Jobs Dashboard](../images/Project1_Page1.PNG)
 
-![Data Jobs Drill Through](images/Project1_Page2.PNG)
+![Data Jobs Drill Through](../images/Project1_Page2.PNG)
